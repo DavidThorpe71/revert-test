@@ -3,7 +3,7 @@ const test2 = {
 };
 
 const test = {
-  firstTest: "hello worlkjhkfjhd d 2"
+  firstTest: "hello world 2"
 };
 
 const test3 = {
