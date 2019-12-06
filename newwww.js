@@ -1,3 +1,3 @@
 const empty = {
-  no: 1
+  no: 0
 };
