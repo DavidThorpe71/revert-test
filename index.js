@@ -1,5 +1,5 @@
 const test2 = {
-  secondTest: "world edited after revert"
+  secondTest: "world world"
 };
 
 const test = {
