@@ -1,3 +1,3 @@
 const test = {
-  firstTest: "hello"
+  firstTest: "hello edited after revert"
 };
